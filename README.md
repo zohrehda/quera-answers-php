@@ -1,2 +1,7 @@
 # quera-answers-php
-the answer of quera question in php language
+This repository consists of solultions for quera  programming challenges in **PHP** scripting language  
+Quera link: https://quera.org/problemset
+
+# چواب سوالات کوئرا به زبان php
+
+
