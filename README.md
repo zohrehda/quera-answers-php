@@ -13,3 +13,4 @@ Quera link: https://quera.org/problemset
 |136483 | [نواحی سرویس‌دهی](https://quera.org/problemset/136483/) | [click here](https://gist.github.com/zohreh-da/2c2d8fb033d31fd69468a76da6b0a5ba) |
 | 51866| [کاف‌کیک](https://quera.org/problemset/51866/) | [click here](https://gist.github.com/zohreh-da/4300f0b6e833fc881934b50f6ae61c5d)
 |17244|[شارژ موبایل](https://quera.org/problemset/17244/)| [click here](https://gist.github.com/zohreh-da/7986bc7b372c54b373e46cbb6b4a3305)
+| 640 | [نردبونی](https://quera.org/problemset/640/) |  [click here](https://gist.github.com/zohreh-da/36fb5b6ff78dbddb04f71563f83a0d58) | 
