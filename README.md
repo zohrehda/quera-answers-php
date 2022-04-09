@@ -2,7 +2,7 @@
 This repository consists of solultions for quera  programming challenges in **PHP** scripting language  
 Quera link: https://quera.org/problemset
 
-## جواب سوالات کوئرا به زبان php
+<h2>جواب سوالات کوئرا به زبان  PHP</h2>
 
 ## challenges
 
