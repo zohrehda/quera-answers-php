@@ -16,3 +16,4 @@ Quera link: https://quera.org/problemset
 | 640 | [نردبونی](https://quera.org/problemset/640/) |  [click here](https://gist.github.com/zohreh-da/36fb5b6ff78dbddb04f71563f83a0d58) | 
 |62451| [در جستجوی ترب](https://quera.org/problemset/62451/)| [click here](https://gist.github.com/zohreh-da/747e81ffa9863c6a668e54af56a3c529)|
 | 7609| [نامه‌ی بد](https://quera.org/problemset/7609/) | [click here](https://gist.github.com/zohreh-da/2b71d9f32fa56db2b3bd829bbcf3da57) |
+|127289 | [تکرار کدکاپی](https://quera.org/problemset/127289/) | [click here](https://gist.github.com/zohrehdaa/df7962a660147a9ab7b711e0a526fec8)|
