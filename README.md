@@ -17,3 +17,5 @@ Quera link: https://quera.org/problemset
 |62451| [در جستجوی ترب](https://quera.org/problemset/62451/)| [click here](https://gist.github.com/zohreh-da/747e81ffa9863c6a668e54af56a3c529)|
 | 7609| [نامه‌ی بد](https://quera.org/problemset/7609/) | [click here](https://gist.github.com/zohreh-da/2b71d9f32fa56db2b3bd829bbcf3da57) |
 |127289 | [تکرار کدکاپی](https://quera.org/problemset/127289/) | [click here](https://gist.github.com/zohrehdaa/df7962a660147a9ab7b711e0a526fec8)|
+|10164|[بازی منطقی در برره](https://quera.org/problemset/10164/) | [click here](https://gist.github.com/zohrehda/f186ebf58f8d64b2b2f85a6ad443df77)|
+|104589| [جشنواره](https://quera.org/problemset/104589/) | [click here](https://gist.github.com/zohrehda/cf5f480b17c00be663ad1c3a46470464)
