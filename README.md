@@ -19,3 +19,4 @@ Quera link: https://quera.org/problemset
 |127289 | [تکرار کدکاپی](https://quera.org/problemset/127289/) | [click here](https://gist.github.com/zohrehdaa/df7962a660147a9ab7b711e0a526fec8)|
 |10164|[بازی منطقی در برره](https://quera.org/problemset/10164/) | [click here](https://gist.github.com/zohrehda/f186ebf58f8d64b2b2f85a6ad443df77)|
 |104589| [جشنواره](https://quera.org/problemset/104589/) | [click here](https://gist.github.com/zohrehda/cf5f480b17c00be663ad1c3a46470464)
+|20257| [قطار کامیابی](https://quera.org/problemset/20257/) | [click here](https://gist.github.com/zohrehda/f0fecd54bc12c3a5e994a77649eaaa0c) |
