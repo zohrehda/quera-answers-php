@@ -21,3 +21,8 @@ Quera link: https://quera.org/problemset
 |104589| [جشنواره](https://quera.org/problemset/104589/) | [click here](https://gist.github.com/zohrehda/cf5f480b17c00be663ad1c3a46470464)
 |20257| [قطار کامیابی](https://quera.org/problemset/20257/) | [click here](https://gist.github.com/zohrehda/f0fecd54bc12c3a5e994a77649eaaa0c) |
 |66861|[عدد خوب](https://quera.org/problemset/66861/) | [click here](https://gist.github.com/zohrehda/493432a280efa1883dc2eddef5a206eb) |
+|52545|[محاسبه](https://quera.org/problemset/52545/)|[click here](https://gist.github.com/zohrehda/7c0cb3444c8c1ebde9cd8e7e5dfdad8f)|
+|111990|[دو شغله](https://quera.org/problemset/111990/)|[click here](https://gist.github.com/zohrehda/10eff72735733a163cbd598e6c3bb2ba)|
+|6395|[شیرکاکائو](https://quera.org/problemset/6395/)|[click here](https://gist.github.com/zohrehda/5e119465d7177d5c7f25359343476105)
+|72882|[پرگوشت](https://quera.org/problemset/72882/)|[click here](https://gist.github.com/zohrehda/8b699b4b5343bc4822725b84a266c413)|
+|110015|[نمایشگاه مجازی](https://quera.org/problemset/110015/)| [click here](https://gist.github.com/zohrehda/8aeae95bfe25d48c643f1db2d7465bff)|
