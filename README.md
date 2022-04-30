@@ -26,3 +26,4 @@ Quera link: https://quera.org/problemset
 |6395|[شیرکاکائو](https://quera.org/problemset/6395/)|[click here](https://gist.github.com/zohrehda/5e119465d7177d5c7f25359343476105)
 |72882|[پرگوشت](https://quera.org/problemset/72882/)|[click here](https://gist.github.com/zohrehda/8b699b4b5343bc4822725b84a266c413)|
 |110015|[نمایشگاه مجازی](https://quera.org/problemset/110015/)| [click here](https://gist.github.com/zohrehda/8aeae95bfe25d48c643f1db2d7465bff)|
+|35254|[پاکسازی](https://quera.org/problemset/35254/)| [click here](https://gist.github.com/zohrehda/49337d5d9edccdabaf786f7c4b47751d)|
