@@ -27,3 +27,6 @@ Quera link: https://quera.org/problemset
 |72882|[پرگوشت](https://quera.org/problemset/72882/)|[click here](https://gist.github.com/zohrehda/8b699b4b5343bc4822725b84a266c413)|
 |110015|[نمایشگاه مجازی](https://quera.org/problemset/110015/)| [click here](https://gist.github.com/zohrehda/8aeae95bfe25d48c643f1db2d7465bff)|
 |35254|[پاکسازی](https://quera.org/problemset/35254/)| [click here](https://gist.github.com/zohrehda/49337d5d9edccdabaf786f7c4b47751d)|
+|52543|[بازی](https://quera.org/problemset/52543/)|[click here](https://gist.github.com/zohrehda/f9874e38e857c618a9cedcd50439d551)|
+|292|[کار با اعداد اعشاری](https://quera.org/problemset/292/)|[click here](https://gist.github.com/zohrehda/2fd0d1545d6e0dea3e1b2823c8cfcfbe) |
+|3415|[بازار موبایل](https://quera.org/problemset/3415/)|[click here](https://gist.github.com/zohrehda/6d290a99a8d86cc3b5da5e515ea51722)
