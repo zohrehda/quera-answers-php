@@ -30,3 +30,8 @@ Quera link: https://quera.org/problemset
 |52543|[بازی](https://quera.org/problemset/52543/)|[click here](https://gist.github.com/zohrehda/f9874e38e857c618a9cedcd50439d551)|
 |292|[کار با اعداد اعشاری](https://quera.org/problemset/292/)|[click here](https://gist.github.com/zohrehda/2fd0d1545d6e0dea3e1b2823c8cfcfbe) |
 |3415|[بازار موبایل](https://quera.org/problemset/3415/)|[click here](https://gist.github.com/zohrehda/6d290a99a8d86cc3b5da5e515ea51722)
+|6375|[حرکت روی ظروف](https://quera.org/problemset/6375/)| [click here](https://gist.github.com/zohrehda/7fb3fc1350218757a7dcb4bcb7feccfd)|
+|6192|[مسئله‌ی آب](https://quera.org/problemset/6192/)|[click here](https://gist.github.com/zohrehda/8d5a97ecf91e359d6a4174e2a4fc0d4f)|
+|17245|[تکسلنگ](https://quera.org/problemset/17245/)|[click here](https://gist.github.com/zohrehda/29a753fc7b8da117e641ea64cdf84aed)|
+
+
