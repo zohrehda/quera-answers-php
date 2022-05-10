@@ -33,5 +33,6 @@ Quera link: https://quera.org/problemset
 |6375|[حرکت روی ظروف](https://quera.org/problemset/6375/)| [click here](https://gist.github.com/zohrehda/7fb3fc1350218757a7dcb4bcb7feccfd)|
 |6192|[مسئله‌ی آب](https://quera.org/problemset/6192/)|[click here](https://gist.github.com/zohrehda/8d5a97ecf91e359d6a4174e2a4fc0d4f)|
 |17245|[تکسلنگ](https://quera.org/problemset/17245/)|[click here](https://gist.github.com/zohrehda/29a753fc7b8da117e641ea64cdf84aed)|
-
-
+|3431|[اوقات فراغت](https://quera.org/problemset/3431/)|[click here](https://gist.github.com/zohrehda/e206c210bcfe7cfa1a6e0d30b6021354)|
+|102261|[رامین و مسئله ریاضی](https://quera.org/problemset/102261/)|[click here](https://gist.github.com/zohrehda/3c5a8eea647bee3e886e64225cd33e64)|
+|2755|[خریدار ناشی](https://quera.org/problemset/2755/)|[click here](https://gist.github.com/zohrehda/28845ae50e50d63b3af52aea5467ca66)|
