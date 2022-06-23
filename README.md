@@ -36,3 +36,4 @@ Quera link: https://quera.org/problemset
 |3431|[اوقات فراغت](https://quera.org/problemset/3431/)|[click here](https://gist.github.com/zohrehda/e206c210bcfe7cfa1a6e0d30b6021354)|
 |102261|[رامین و مسئله ریاضی](https://quera.org/problemset/102261/)|[click here](https://gist.github.com/zohrehda/3c5a8eea647bee3e886e64225cd33e64)|
 |2755|[خریدار ناشی](https://quera.org/problemset/2755/)|[click here](https://gist.github.com/zohrehda/28845ae50e50d63b3af52aea5467ca66)|
+|123801|[اتاق فرار](https://quera.org/problemset/123801/)|[click here](https://gist.github.com/zohrehda/401e1784f90ce66308589a770b462b26)
